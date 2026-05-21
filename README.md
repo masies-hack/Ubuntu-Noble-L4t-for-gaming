@@ -32,7 +32,7 @@ This project is not affiliated with Nintendo.
 ## Included Software
 
 See:
-`docs/CREDITS.md`
+`CREDITS.md`
 
 ---
 
