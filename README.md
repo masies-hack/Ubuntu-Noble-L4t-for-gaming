@@ -103,10 +103,13 @@ Optional. Open L4t Megascript and perform an auto-update
 
 ---
 ##OVERCLOCK
+
 To configure OverClock on G/CPU and RAM, see the official documentation on switchroot.
+
 https://wiki.switchroot.org/wiki/linux/linux-features
 
 Optional Extreme Overclocking NOT included.
+
 See the Nagaa repository.
 https://github.com/NaGaa95/L4T-OC-Kernel
 
@@ -120,6 +123,7 @@ https://discord.gg/Mqegm7PvV9
 
 ## Acknowledgement
 https://switchroot.org
+
 https://github.com/cobalt2727/L4T-Megascript
 
 Linux 4 Switch https://discord.gg/53mtKYt
