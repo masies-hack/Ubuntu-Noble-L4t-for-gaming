@@ -115,7 +115,7 @@ https://github.com/NaGaa95/L4T-OC-Kernel
 
 ---
 
-## Discord
+## Our Discord
 
 https://discord.gg/Mqegm7PvV9
 
