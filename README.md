@@ -87,7 +87,7 @@ Flash the image MultySystem using:
 Hekate
 
 can use this YouTube guide
-https://www.youtube.com/watch?v=
+https://www.youtube.com/watch?v=ZvkRSI-whgM
 ---
 
 ## Update the system correctly.
