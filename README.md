@@ -60,6 +60,7 @@ Dedicated Linux-only SD image.
 Prepared for multiboot setups with Android or Atmosphere.
 
 User = switch
+
 User & Root Password = 1234
 
 ## Downloads
