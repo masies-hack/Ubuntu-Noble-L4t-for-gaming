@@ -102,6 +102,15 @@ Optional. Open L4t Megascript and perform an auto-update
 (This may take two or three hours, as it will compile emulators like Dolphin and Azahar, among others).
 
 ---
+##OVERCLOCK
+To configure OverClock on G/CPU and RAM, see the official documentation on switchroot.
+https://wiki.switchroot.org/wiki/linux/linux-features
+
+Optional Extreme Overclocking NOT included.
+See the Nagaa repository.
+https://github.com/NaGaa95/L4T-OC-Kernel
+
+---
 
 ## Discord
 
