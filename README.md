@@ -66,7 +66,7 @@ User & Root Password = 1234
 ## Downloads
 
 Latest Release:
-https://github.com/masies-hack/Ubuntu-Noble-L4t-for-gaming/releases
+[Link](https://github.com/MaSieS4Fun/Ubuntu-Noble-L4t-for-gaming/releases)
 
 Archive.org Mirrors:
 
